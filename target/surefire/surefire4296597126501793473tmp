@@ -1,0 +1,8 @@
+#surefire
+#Thu Aug 03 16:32:55 IST 2023
+maven.ext.class.path=C\:\\Program Files\\NetBeans 8.2\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=C\:\\Users\\laxmi\\Documents\\NetBeansProjects\\mavenproject3\\mycart
+file.encoding=UTF-8
+localRepository=C\:\\Users\\laxmi\\.m2\\repository
+netbeans.deploy=true
+basedir=C\:\\Users\\laxmi\\Documents\\NetBeansProjects\\mavenproject3\\mycart
